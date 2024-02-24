@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E12FED0-2168-43A5-BCA6-4E7D45E83EA5}|Task1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Task1\\task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E12FED0-2168-43A5-BCA6-4E7D45E83EA5}|Task1.vcxproj|solutionrelative:task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E12FED0-2168-43A5-BCA6-4E7D45E83EA5}|Task1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Task1\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E12FED0-2168-43A5-BCA6-4E7D45E83EA5}|Task1.vcxproj|solutionrelative:Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task1.c",
+              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Task1\\task1.c",
+              "RelativeDocumentMoniker": "task1.c",
+              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Task1\\task1.c",
+              "RelativeToolTip": "task1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-24T21:28:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1.cpp",
+              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Task1\\Task1.cpp",
+              "RelativeDocumentMoniker": "Task1.cpp",
+              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Task1\\Task1.cpp",
+              "RelativeToolTip": "Task1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T21:28:15.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
