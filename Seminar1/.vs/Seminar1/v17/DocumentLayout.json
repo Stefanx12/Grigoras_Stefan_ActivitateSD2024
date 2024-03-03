@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "task2.c",
+              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c",
+              "RelativeDocumentMoniker": "task2.c",
+              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c",
+              "RelativeToolTip": "task2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-03T18:18:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Seminar2.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c",
               "RelativeDocumentMoniker": "Seminar2.c",
               "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c",
               "RelativeToolTip": "Seminar2.c",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAUwHEAAAAAAAAA",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAIwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-03T16:38:54.23Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "Task1.c",
               "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Task1.c",
               "RelativeToolTip": "Task1.c",
-              "ViewState": "AQIAABkAAAAAAAAAAAAUwCkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-03T16:38:36.234Z",
               "EditorCaption": ""
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "s1.c",
               "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c",
               "RelativeToolTip": "s1.c",
-              "ViewState": "AQIAABUAAAAAAAAAAAAUwB0AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-02-25T17:29:23.97Z",
               "EditorCaption": ""
