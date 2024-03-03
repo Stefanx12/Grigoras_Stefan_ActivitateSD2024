@@ -11,7 +11,7 @@ struct Patiserie {
 
 void afisareComanda(struct Patiserie p) {
     if (p.denumire != NULL) {
-        printf("Denumire: %s\n", p.denumire);
+        printf("\nDenumire: %s\n", p.denumire);
     }
     printf("Glazura: %s\n", p.glazura);
     printf("Pret: %.2f\n", p.pret);
@@ -36,21 +36,26 @@ void dezalocare(struct Patiserie* p) {
     p->glazura = NULL;
 }
 
-int main() {
+float calculeazaPret(struct Patiserie p) {
+    return p.pret * p.cantitate;
+}
+
+void main() {
     struct Patiserie GogoasaCiocolata;
     GogoasaCiocolata.denumire = (char*)malloc(sizeof(char) * (strlen("Gogoasa") + 1));
     strcpy(GogoasaCiocolata.denumire, "Gogoasa");
     GogoasaCiocolata.glazura = (char*)malloc(sizeof(char) * (strlen("Ciocolata") + 1));
     strcpy(GogoasaCiocolata.glazura, "Ciocolata");
     GogoasaCiocolata.pret = 12;
-    GogoasaCiocolata.cantitate = 1;
+    GogoasaCiocolata.cantitate = 2;
 
     afisareComanda(GogoasaCiocolata);
+    float pretTotal = calculeazaPret(GogoasaCiocolata);
+    printf("\nPretul comenzii este: %.2f\n", pretTotal);
     dezalocare(&GogoasaCiocolata);
 
     struct Patiserie GogoasaDulceata = initializareAliment("Gogoasa", "Dulceata", 14, 1);
     afisareComanda(GogoasaDulceata);
     dezalocare(&GogoasaDulceata);
 
-    return 0;
 }

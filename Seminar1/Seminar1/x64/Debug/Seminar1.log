@@ -1,5 +1,10 @@
-﻿  Task1.c
+﻿  s1.c
+  Seminar2.c
+  Task1.c
+  Generating Code...
 C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(24,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(26,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(42,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(44,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(53,23): warning C4013: 'calculeazaPretTotal' undefined; assuming extern returning int
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(46,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(48,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(53,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
