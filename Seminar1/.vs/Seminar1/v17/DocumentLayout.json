@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +35,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "s3.c",
+              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c",
+              "RelativeDocumentMoniker": "s3.c",
+              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c",
+              "RelativeToolTip": "s3.c",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAUwFwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-12T08:38:12.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "task2.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c",
               "RelativeDocumentMoniker": "task2.c",
               "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c",
               "RelativeToolTip": "task2.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAcAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-03T18:18:25.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T18:18:25.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Seminar2.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c",
               "RelativeDocumentMoniker": "Seminar2.c",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "Seminar2.c",
               "ViewState": "AQIAAIkAAAAAAAAAAAAAAIwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-03T16:38:54.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T16:38:54.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Task1.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Task1.c",
               "RelativeDocumentMoniker": "Task1.c",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "Task1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-03T16:38:36.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T16:38:36.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "s1.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c",
               "RelativeDocumentMoniker": "s1.c",
@@ -77,8 +91,7 @@
               "RelativeToolTip": "s1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-25T17:29:23.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T17:29:23.97Z"
             }
           ]
         }

@@ -27,5 +27,8 @@
     <ClCompile Include="task2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="s3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
