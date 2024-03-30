@@ -63,13 +63,15 @@ void stergeLocuinta(struct Locuinta** vector, int* dim, int id) {
 }
 
 void citesteFisier(const char* nume_fisier, struct Locuinta** vector, int* dim) {
-	if (nume_fisier != NULL && strlen(nume_fisier) > 0) {
+	if (nume_fisier != NULL && strlen(nume_fisier) > 0) 
+	{
 		FILE* f = fopen(nume_fisier, "r");
 		if (f != NULL) {
 			(*dim) = 0;
 			char buffer[100];
 			char delimitator[] = ",\n";
-			while (fgets(buffer, 100, f) != NULL) {
+			while (fgets(buffer, 100, f) != NULL)
+			{
 				char* token;
 				token = strtok(buffer, delimitator); //strtok lasa un flag in buffer pe care il cauta la urmatorul apel
 				struct Locuinta locuinta;
@@ -90,7 +92,7 @@ void main()
 {
 	struct Locuinta* locuinte = NULL;
 	int dim = 3;
-	citesteFisier("Text.txt", &locuinte, &dim);
+	citesteFisier("fisier.txt", &locuinte, &dim);
 	afisareVectorLocuinta(locuinte, dim);
 	printf("Initial: \n\n");
 

@@ -31,7 +31,7 @@ void afisareVectorAvioane(struct Avion* vector, int nrAvioane) {
 }
 
 struct Avion* copiazaPrimeleNAvioane(struct Avion* avioane, int nrAvioane, int nrAvioaneCopiate) {
-	if (nrAvioaneCopiate < nrAvioane && nrAvioane>0) {
+	if (nrAvioaneCopiate < nrAvioane && nrAvioane > 0) {
 		struct Avion* avioaneCopiate = (struct Avion*)malloc(sizeof(struct Avion) * nrAvioaneCopiate);
 		for (int i = 0; i < nrAvioaneCopiate; i++) {
 			avioaneCopiate[i] = initializareAvion(avioane[i].nrPasageri, avioane[i].companie, avioane[i].pretBilet);

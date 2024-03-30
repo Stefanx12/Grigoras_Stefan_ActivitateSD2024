@@ -36,5 +36,8 @@
     <ClCompile Include="s5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="s6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:Seminar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:s4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DA733AB-26E8-47EB-8DEB-76F62D67F9A7}|Seminar1.vcxproj|solutionrelative:task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +42,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "s5.c",
-              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s5.c",
-              "RelativeDocumentMoniker": "s5.c",
-              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s5.c",
-              "RelativeToolTip": "s5.c",
-              "ViewState": "AQIAAJQAAAAAAAAAAAAAAJQAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "s3.c",
+              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c",
+              "RelativeDocumentMoniker": "s3.c",
+              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c",
+              "RelativeToolTip": "s3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-24T13:09:16.563Z",
+              "WhenOpened": "2024-03-12T08:38:12.995Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "s1.c",
+              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c",
+              "RelativeDocumentMoniker": "s1.c",
+              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c",
+              "RelativeToolTip": "s1.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-25T17:29:23.97Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "s6.c",
+              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s6.c",
+              "RelativeDocumentMoniker": "s6.c",
+              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s6.c",
+              "RelativeToolTip": "s6.c",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-30T11:50:30.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "s5.c",
+              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s5.c",
+              "RelativeDocumentMoniker": "s5.c",
+              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s5.c",
+              "RelativeToolTip": "s5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-24T13:09:16.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "s4.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s4.c",
               "RelativeDocumentMoniker": "s4.c",
@@ -63,24 +105,11 @@
               "RelativeToolTip": "s4.c",
               "ViewState": "AQIAAMMAAAAAAAAAAAAUwMUAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-12T10:07:30.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T10:07:30.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "s3.c",
-              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c",
-              "RelativeDocumentMoniker": "s3.c",
-              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s3.c",
-              "RelativeToolTip": "s3.c",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAUwF0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-12T08:38:12.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "task2.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\task2.c",
               "RelativeDocumentMoniker": "task2.c",
@@ -92,39 +121,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Seminar2.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c",
               "RelativeDocumentMoniker": "Seminar2.c",
               "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Seminar2.c",
               "RelativeToolTip": "Seminar2.c",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAAAIwAAAABAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwIAAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-03T16:38:54.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Task1.c",
               "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Task1.c",
               "RelativeDocumentMoniker": "Task1.c",
               "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\Task1.c",
               "RelativeToolTip": "Task1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-03T16:38:36.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "s1.c",
-              "DocumentMoniker": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c",
-              "RelativeDocumentMoniker": "s1.c",
-              "ToolTip": "C:\\Users\\vladu\\OneDrive\\Desktop\\Facultate An 2\\Sem2\\SDD\\Seminar1\\s1.c",
-              "RelativeToolTip": "s1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-25T17:29:23.97Z"
             }
           ]
         }
