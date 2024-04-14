@@ -215,4 +215,4 @@ void main() {
 
 	dezalocareMatrice(&matrice, &nr_linii, &nr_coloane);
 	return 0;
-}
+}	

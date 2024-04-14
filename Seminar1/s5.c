@@ -91,6 +91,7 @@ void stergeLista(Nod** nod)
 	}
 }
 
+
 void inserareFinal(Nod** lista, Cafenea c)
 {
 	if ((*lista) == NULL)

@@ -1,7 +1,20 @@
-﻿  s3.c
+﻿  s6.c
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\s6.c(34,47): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\s6.c(35,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\s6.c(78,16): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\s6.c(148,57): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\s6.c(151,10): warning C4101: 'sb': unreferenced local variable
+  s7.c
+  s8.c
+  Seminar2.c
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Seminar2.c(15,50): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Seminar2.c(16,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Seminar2.c(91,9): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Seminar2.c(112,58): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
   Task1.c
   Generating Code...
 C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(24,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(26,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(46,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Task1.c(48,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vladu\OneDrive\Desktop\Facultate An 2\Sem2\SDD\Seminar1\Seminar2.c(104,1): warning C4715: 'getPrimulAvion': not all control paths return a value

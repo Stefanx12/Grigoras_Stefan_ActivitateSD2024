@@ -126,7 +126,7 @@ void main()
 	avioane[4].pretBilet = 30;
 	copiazaAvioaneCuBileteReduse(avioane, nrAvioane, 70, &avioaneCuBileteReduse, &nrAvioaneCuBileteReduse);
 	printf("\n\n");
-	afisareVectorAvioane(avioaneCuBileteReduse, nrAvioaneCuBileteReduse);
+	afisareVectorAvioane(avioaneCuBileteReduse, nrAvioaneCuBileteReduse);	
 
 	printf("\n\n");
 	printf("Avion cautat:\n");

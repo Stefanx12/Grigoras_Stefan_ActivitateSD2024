@@ -39,5 +39,11 @@
     <ClCompile Include="s6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="s8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="s7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
