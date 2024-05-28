@@ -130,6 +130,8 @@
     <ClCompile Include="s1.c" />
     <ClCompile Include="s10.c" />
     <ClCompile Include="s11-12.c" />
+    <ClCompile Include="s13.c" />
+    <ClCompile Include="s14.c" />
     <ClCompile Include="s3.c" />
     <ClCompile Include="s4.c" />
     <ClCompile Include="s5.c" />

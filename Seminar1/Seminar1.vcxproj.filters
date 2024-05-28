@@ -51,5 +51,11 @@
     <ClCompile Include="s11-12.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="s14.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="s13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
